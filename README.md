@@ -8,7 +8,6 @@
 ```bash
 git clone https://github.com/DepartmentOfSoftwareEngineeringFEFU/M9124-01.04.02pmi-Averichev_Nikita-.git
 cd M9124-01.04.02pmi-Averichev_Nikita-
-docker compose up -d --build
 ```
 2. Запустите приложение
 ```bash
